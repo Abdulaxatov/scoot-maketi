@@ -138,6 +138,63 @@ body {
   background-size: cover;
 }
 
+
+/* Intro */
+
+.location__img{
+  margin: 120px 0;
+}
+
+.contactus__contant{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 120px;
+  margin-bottom: 122px;
+}
+
+.adventies-section__title{
+  width: 351px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: -2.14286px;
+  color: #495567;
+  margin: 0;
+}
+
+.adventies-section__text{
+  width: 445px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  color: #939CAA;
+  margin: 0;
+}
+
+.adventies-section__link {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 44px;
+  border: 3px solid transparent;
+  background-color: #FCB72B;
+  color: #FFFFFF;
+}
+
+.adventies-section__link:hover {
+  border: 3px solid #FCB72B;
+  background-color: transparent;
+  color: #FCB72B;
+}
+
 /* Last-section */
 
 
